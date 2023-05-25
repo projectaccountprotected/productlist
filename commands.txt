@@ -1,0 +1,4 @@
+@echo off
+cd C:\Users\gusta\WebExtract\Final Json for Bit Hub
+git commit -m "auto commit"
+git push -u origin master
